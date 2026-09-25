@@ -1,7 +1,7 @@
-! name: Copycats removal
-! description: Rerank results to remove “copycat” content (e.g. StackOverflow threads or GitHub translations).
-! public: true
-! author: Goggles 101
+! name: LQR471814
+! description: Personal goggles.
+! public: false
+! author: LQR471814
 ! avatar: #414040
 
 ! StackOverflow translations
